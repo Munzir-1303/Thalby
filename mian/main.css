@@ -1,0 +1,176 @@
+li{
+    list-style: none;
+}
+
+.header{
+    background: #FFFFFF;
+    border-radius: 0px;
+}
+
+.header .container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav__ul{
+    display: flex;
+}
+
+.nav__link{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    color: #1C1B1B;    
+}
+
+.navbar__ul{
+    display: flex;
+}
+
+.navbar__img--search{
+    margin-top: -6px;
+}
+
+.navbar__img--qulf{
+    margin-top: -7px;
+}
+
+
+
+.hero{
+    background: #F0EFEB;
+    border-radius: 0px;
+    width: 100%;
+    height: 554px;    
+}
+
+.hero__about{
+    width: 534px;
+    padding-top: 90px;
+}
+
+.hero__h1{
+    padding-bottom: 42px;
+}
+
+.hero__text{
+    padding-bottom: 26px;
+}
+
+.hero__link{
+    border: 1px solid #000000;
+    border-radius: 100px;  
+}
+
+.hero__flex {
+    padding-left: 45px;
+}
+
+
+
+
+.about__h2 {
+    text-align: center;
+    padding-bottom: 27px;
+}
+
+.about__text{
+    text-align: center;
+    width: 632px;
+    margin-left: 335px;
+    padding-bottom: 27px;
+}
+
+.about__info{
+    padding-bottom: 88px;
+}
+
+.about__h2--1{
+    text-align: center;
+}
+
+.about__li{
+    width: 309px;
+}
+
+.about__text--1{
+    width: 156px;
+    text-align: center;
+    margin-left: 71px;
+}
+
+.about__span{
+    margin-left: 115px;
+}
+
+.about__link{
+    margin-left: 108px;
+}
+
+.about__ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+.footer{
+    background: #020202;
+    border-radius: 0px;
+    width: 100%;
+    height: 350px;
+}
+
+.footer__logo{
+    padding-top: 51px;
+}
+
+.footer__logo{
+   padding-bottom: 10px;
+}
+
+.about__logo--1{
+    margin-left: -16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.footer__nav--ul{
+    padding-left: 887px;
+    margin-top: -147px;
+}
+
+.footer__nav{
+    display: flex;
+}
+
+.footer__nav--li-1{
+    padding-bottom: 36px;
+}
+
+.footer__nav--li{
+    padding-bottom: 12px;
+}
+
+.footer__nav--ul-2{
+    margin-top: -147px;
+    padding-left: 72px;
+}
+
+.footer__link{
+    opacity: 0.7;  
+    padding-top: 251px;
+    padding-left: 528px;
+}
